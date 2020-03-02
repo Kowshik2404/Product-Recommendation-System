@@ -4,6 +4,8 @@ Data Description:
 Amazon Reviews data (data source) The repository has several datasets. For this
 case study, we are using the Electronics dataset.
 
+Data -https://drive.google.com/file/d/1ClBptsK3V5KgKXtK2GSRzFNAW7GnTPDW/view?usp=sharing
+
 Context:
 Online E-commerce websites like Amazon, Flipkart uses different
 recommendation models to provide different suggestions to different users.
